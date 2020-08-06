@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I got a color TV so i can see the nicks play basketball
 Use the left arrow to go back!
